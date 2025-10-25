@@ -1,87 +1,62 @@
-# Hi I'm Kawser - Full-Stack Engineer
+# Hi, I'm Kawser - Full-Stack Engineer
 
-**Open to remote roles (USA / Canada / EU) HTML/HTML5 · CSS/CSS3 · Tailwind CSS · DaisyUI · JavaScript · React · Redux · Node.js · Express.js · MongoDB · Mongoose · Next.js · SQL · PostgreSQL · TypeScript · Vitest · Docker · Nginx · Prisma · Vercel · Git · Firebase · JWT · Golang**
+**Username:** [go-kawser](https://github.com/go-kawser)  
+**Open to Remote Roles:** Junior/Entry-Level Full-Stack & Backend Developer (USA, Canada, EU)  
+**Tech Passion:** Building scalable web apps and robust APIs with modern tools.
 
-🔭 I build scalable web applications and robust backend services, from sleek user interfaces to efficient APIs.  
-🌱 I am actively seeking remote junior/entry-level backend or full-stack developer roles in the USA, Canada, and EU.  
-💼 With a passion for clean code and modern technologies, I aim to contribute to innovative projects and grow my expertise.
+---
+
+## About Me
+
+- **I craft end-to-end web solutions, from polished UIs to performant backend services.**
+- **Constantly learning and integrating the latest technologies.**
+- **Seeking remote opportunities to grow as a Full-Stack Engineer.**
 
 ---
 
 ## Tech Stack
 
-### Frontend
-
-- HTML/HTML5
-- CSS/CSS3
-- Tailwind CSS
-- DaisyUI
-- JavaScript
-- React
-- Redux
-- Next.js
-
-### Backend
-
-- Node.js
-- Express.js
-- Golang (Go)
-- Firebase
-- JWT
-
-### Database & Infrastructure
-
-- MongoDB
-- Mongoose
-- SQL
-- PostgreSQL
-- Prisma
-- Docker
-- Nginx
-- Vercel
-
-### Tools & Testing
-
-- TypeScript
-- Vitest
-- Git
-- GitHub Actions
+| **Category**       | **Technologies**                                                                 |
+| ------------------ | -------------------------------------------------------------------------------- |
+| **Frontend**       | HTML5, CSS3, Tailwind CSS, DaisyUI, Bootstrap, JavaScript, React, Redux, Next.js |
+| **Backend**        | Node.js, Express.js, Golang, SQL, PostgreSQL, NoSQL, MongoDB, Mongoose, Prisma   |
+| **Infra & Deploy** | AWS, Docker, Nginx, Vercel, Firebase, Git                                        |
+| **Testing & Sec**  | Jest, Vitest, JWT                                                                |
+| **Languages**      | TypeScript, JavaScript, Go                                                       |
 
 ---
 
-## Pinned Projects
+### Pinned Projects
 
-1. **E-commerce Platform (Full-Stack)**
+1. **E-commerce (Full-Stack)**
 
-   - Tech: Next.js · TypeScript · Prisma · PostgreSQL · Docker
-   - Description: A production-ready e-commerce store featuring authentication, payment integration, and continuous integration.
-   - Link: [https://github.com/go-kawser/your-ecommerce](https://github.com/go-kawser/your-ecommerce)
+   - Tech: Next.js, TypeScript, Prisma, PostgreSQL, Docker
+   - Details: Production-ready store with auth, payments, and CI/CD.
+   - Link: [github.com/go-kawser/coming-soon-ecommerce](https://github.com/go-kawser/coming-soon-ecommerce)
 
 2. **Admin Dashboard (React)**
 
-   - Tech: React · TypeScript · Tailwind CSS · Vitest
-   - Description: A component-driven dashboard with comprehensive testing using Storybook.
-   - Link: [https://github.com/go-kawser/your-dashboard](https://github.com/go-kawser/your-dashboard)
+   - Tech: React, TypeScript, Tailwind CSS, Vitest, Storybook
+   - Details: Component-driven dashboard with comprehensive tests.
+   - Link: [github.com/go-kawser/coming-soon-dashboard](https://github.com/go-kawser/coming-soon-dashboard)
 
-3. **Authentication API (Go)**
-   - Tech: Golang · PostgreSQL · Docker
-   - Description: A fast and tested REST API with Docker support and GitHub Actions for CI/CD.
-   - Link: [https://github.com/go-kawser/your-auth-api](https://github.com/go-kawser/your-auth-api)
+3. **Auth API (Go)**
+   - Tech: Golang, PostgreSQL, Docker, GitHub Actions
+   - Details: High-performance REST API with automated testing.
 
----
-
-## Contact
-
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)
-- 🌐 Portfolio: [https://kawser.dev](https://kawser.dev)
+- Link: [github.com/go-kawser/coming-soon-auth-api](https://github.com/go-kawser/coming-soon-auth-api)
 
 ---
 
-## Looking to Collaborate
+### Get in Touch
 
-I’m open to collaborating on exciting web development projects, especially those involving modern frameworks and scalable architectures. Feel free to reach out!
+- **Email:** [coming-soon@gmail.com](mailto:your.email@example.com)
+- **LinkedIn:** [linkedin.com/in/coming-soon-linkedin](https://www.linkedin.com/in/coming-soon-linkedin)
+- **Portfolio:** [kawser.dev](https://kawser.dev)
+- **Open to collaborate or discuss opportunities!**
 
-## Fun Fact
+---
 
-⚡ I enjoy experimenting with new tech stacks in my spare time to keep my skills sharp!
+#### Fun Fact
+
+**I enjoy solving complex coding challenges in my spare time!**
